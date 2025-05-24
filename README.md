@@ -127,4 +127,3 @@ Distributed under the [MIT License](LICENSE).
 **Note:** Replace all image paths with your actual screenshot paths and update the repository URLs with your actual GitHub repository information.
 
 📧 Contact: kpradyun18@gmail.com
-<!-->🔗 Portfolio: [Your Portfolio URL]<--!>

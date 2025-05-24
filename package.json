@@ -1,0 +1,23 @@
+{
+  "name": "uoh-alumni-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for University of Hyderabad CS alumni information",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0-rc.12",
+    "csv-parse": "^5.6.0",
+    "express": "^4.21.2",
+    "google-search-results-nodejs": "^2.1.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "lodash.get": "^4.4.2",
+    "puppeteer": "^24.6.1",
+    "puppeteer-cluster": "^0.24.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "serpapi": "^2.0.0"
+  }
+}

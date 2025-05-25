@@ -99,7 +99,6 @@ Add your screenshots to an `images` folder in your repository and update these l
 
 This project is for educational purposes only. Use responsibly and respect:
 - Website terms of service
-- robots.txt rules
 - Rate limiting guidelines
 - Personal data privacy regulations
 
@@ -119,7 +118,5 @@ Contributions are welcome! Please follow these steps:
 - Open source community for valuable libraries
 
 ---
-
-**Note:** Replace all image paths with your actual screenshot paths and update the repository URLs with your actual GitHub repository information.
 
 📧 Contact: kpradyun18@gmail.com

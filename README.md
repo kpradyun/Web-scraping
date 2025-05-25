@@ -112,10 +112,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - University of Hyderabad Alumni Portal
